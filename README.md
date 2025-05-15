@@ -115,12 +115,12 @@ We show all steps for selecting $k=3$ tests.
      $1/2.0=0.50$ vs others $0.3333,0.25,0.20$. ✓
 
    * **k=2**: Main $\\{1,2\\}$ submatrix
-    ```math
+    $$
      \begin{bmatrix}
         2.0&0.4\\
         0.4&3.0
      \end{bmatrix},
-    ```
+    $$
      inverse-sum ≈ **0.7192**, while
      $\\{1,0\\}$ $\\approx$ 0.5650 and $\\{1,3\\}$ $\\approx$ 0.6131. ✓
 
