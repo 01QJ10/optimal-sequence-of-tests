@@ -116,8 +116,9 @@ We show all steps for selecting $k=3$ tests.
 
    * **k=2**: Main $\\{1,2\\}$ submatrix
     ```math
-     \begin{bmatrix}2.0&0.4\\
-     0.4&3.0
+     \begin{bmatrix}
+        2.0&0.4\\
+        0.4&3.0
      \end{bmatrix},
     ```
      inverse-sum ≈ **0.7192**, while
