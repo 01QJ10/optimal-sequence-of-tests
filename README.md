@@ -123,6 +123,9 @@ We show all steps for selecting $k=3$ tests.
     $$
      inverse-sum ≈ **0.7192**, while
      $\\{1,0\\}$ $\\approx$ 0.5650 and $\\{1,3\\}$ $\\approx$ 0.6131. ✓
+     ```math
+\begin{bmatrix}X\\Y\end{bmatrix}
+```
 
    * **k=3**: Prefix $\\{1,2,0\\}$ (3×3) also dominates all other triples (omit work for brevity). ✓
 
