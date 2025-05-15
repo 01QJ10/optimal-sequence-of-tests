@@ -1,0 +1,4 @@
+Optimal sequence of length 3:
+0	GAD with PHQ-PD
+1	GAD with PHQ-PD.1
+5	IDS-30.1

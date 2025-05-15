@@ -1,0 +1,4 @@
+Optimal sequence of length 3:
+2	Q-LES-Q-SF
+3	Q-LES-Q-SF.1
+5	IDS-30.1
